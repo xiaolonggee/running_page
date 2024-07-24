@@ -18,11 +18,7 @@ const data: ISiteMetadataResult = {
     {
       name: 'git',
       url: 'https://github.com/xiaolonggee/running_page',
-    },
-    {
-      name: 'About',
-      url: '',
-    },
+    }
   ],
 };
 
