@@ -13,7 +13,7 @@ const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   description:'running life',
   siteUrl: 'https://running.xiaolongge.online',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  logo: 'https://avatars.githubusercontent.com/u/30064467?v=4',
   navLinks: [
     {
       name: 'git',
