@@ -20,10 +20,10 @@ const data: ISiteMetadataResult = {
   logo: 'https://avatars.githubusercontent.com/u/30064467?v=4',
   description: 'Personal site and blog',
   navLinks: [
-    // {
-    //   name: 'Summary',
-    //   url: `${getBasePath()}/summary`,
-    // },
+    {
+      name: 'Summary',
+      url: `${getBasePath()}/summary`,
+    },
     // {
     //   name: 'Blog',
     //   url: 'https://github.com/yihong0618/gitblog',
